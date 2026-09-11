@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 工作区与产物（可随时删除并重建；如需把成品入库，请显式 git add -f）
+work/
+output/
+incoming/
+
+# 抓取临时件
+*.tmp
+*.log
+.cache/
